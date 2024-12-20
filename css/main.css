@@ -1,0 +1,91 @@
+body{
+    background-color: #1E202B;
+    color: #bfc1c8;
+    font-family: "Roboto", "Open Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.5;
+
+}
+nav{
+    background-color: #1E202B;
+    color: #fff;
+}
+.homes{
+    color: #fff;
+}
+.homes:hover{
+    border: #157bd8 solid 2px;
+    
+    color: #157bd8;
+}
+.newss{
+    background-image: url(../image/banner.png);
+    background-position:top;
+    background-repeat: no-repeat;
+    
+    margin-top: 0;
+    
+}
+.bkk{
+    background-color: #1E202B;
+    color: #fff;
+    height: 60px;
+}
+.form-control{
+    background-color: #1E202B;
+    box-shadow: none;
+    border: none;
+}
+.form-control:focus{
+    background-color: #1E202B;
+    box-shadow: none;
+}
+.form-control::placeholder{
+    color: #bfc1c8;
+}
+.color-1{
+    background-color: #2d303d;
+    color: #bfc1c8;
+
+}
+.colors{
+    background-color: #323544;
+    color: #bfc1c8;
+}
+h1{
+    color: #fff;
+    font-size: 100px;
+    padding: 30px 30px 10px;
+}
+.color-2{
+    background-color: #222530;
+    color: #bfc1c8;
+}
+.colors-2{
+    background-color: #262936;
+    color: #bfc1c8;
+}
+.hl-50{
+    height: 450px;
+}
+.site-footer{
+    background-color: #262936;
+}
+.social-links a{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+    background: #1e202b;
+    color: #009ad8;
+    text-align: center;
+    line-height: 2;
+    font-size: 1.4285714286em;
+    
+
+}
+.social-links a:hover{
+    background: #009ad8;
+    color: white;
+}
